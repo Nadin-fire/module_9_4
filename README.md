@@ -9,13 +9,12 @@ first = 'Мама мыла раму'
 second = 'Рамена мало было'
 
 Необходимо составить lambda-функцию для следующего выражения - list(map(?, first, second)).
-Здесь ? - место написания lambda-функции.
+ Здесь ? - место написания lambda-функции.
 
 Результатом должен быть список совпадения букв в той же позиции:
 
 [False, True, True, False, False, False, False, False, True, False, False, False, False, False]
-
-Где True - совпало, False - не совпало.
+ Где True - совпало, False - не совпало.
 
 Замыкание:
 
